@@ -37,10 +37,10 @@ Repositorio del proyecto seleccionado de simulación laboral s15-32-m-data-bi
 
 <h2>🚩 User Stories:</h2>
 
-1. Como analista de mercado, quiero poder visualizar gráficos que muestren la evolución histórica de los precios de los combustibles (nafta, gasoil, etc.) en Argentina durante los últimos años, para identificar tendencias y patrones.
-2. Como inversor en el sector energético, quiero analizar la correlación entre los precios de los combustibles en Argentina y otros indicadores económicos clave, como el tipo de cambio o el precio del petróleo a nivel internacional, para tomar decisiones de inversión más fundamentadas.
-3. Como gerente de una estación de servicio, quiero visualizar informes que me indiquen la variación porcentual del precio de los combustibles en comparación con periodos anteriores, para tomar decisiones informadas sobre la fijación de precios en mi establecimiento.
-4. Como gerente de una estación de servicio, quiero recibir predicciones de la produccion de petroleo y gasoil, como asi tambien de los precios de los combustibles en Argentina para tomar decisiones informadas sobre la fijación de precios en mi establecimiento.
+1. Como analista de mercado, quiero poder visualizar gráficos que muestren la evolución histórica de los precios de ...
+2. Como inversor en el sector energético, quiero analizar la correlación entre ...
+3. Como gerente de una estación de servicio, quiero visualizar informes ...
+4. Como gerente de una estación de servicio, quiero recibir predicciones d...
 
 <h2>🚧 Producto mínimo viable (MVP):</h2>
 <br>
