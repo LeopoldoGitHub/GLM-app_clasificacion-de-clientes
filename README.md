@@ -38,7 +38,7 @@ Repositorio del proyecto seleccionado de simulación laboral s15-32-m-data-bi
 <h2>🚩 User Stories:</h2>
 
 1. Como analista de mercado, quiero poder visualizar gráficos que muestren la evolución histórica de los precios de ...
-2. Como inversor en el sector energético, quiero analizar la correlación entre ...
+2. Como inversor en el sector , quiero analizar la correlación entre ...
 3. Como gerente de una estación de servicio, quiero visualizar informes ...
 4. Como gerente de una estación de servicio, quiero recibir predicciones d...
 
@@ -64,33 +64,32 @@ Con este análisis en profundidad, los usuarios podrán anticipar tendencias ...
 
 <h3>🚩 Creación del canal de Slack:</h3>
 
-<p>Se ha propuesto utilizar Slack como nuestra plataforma de comunicación secundaria. Esta decisión se basa en las siguientes ventajas que ofrece Slack:</p>
+<p>Se ha propuesto utilizar Slack como nuestra plataforma de comunicación principal. Esta decisión se basa en las siguientes ventajas que ofrece Slack:</p>
 
 <li>Compartir pantalla: ideal para colaborar en tareas que requieren visualización y edición conjunta de contenido. </li>
-<li>Canales: facilita la organización y seguimiento de conversaciones temáticas, evitando la saturación en un único canal. </li>
-<li>Familiaridad: la mayoría de nosotros ya conoce Slack, lo que facilita la adopción de la nueva plataforma. </li>
+<li>Familiaridad: la mayoría de nosotros ya conoce Slack, lo que facilita la adopción de la plataforma. </li>
 
 
 <h3>🚩 Definición de horario de reuniones diarias.</h3>
 Hemos acordado que la reunión diaria se llevará a cabo todos los días a las 10:00 AM, hora de Argentina.
-Durante estas reuniones diarias, cada miembro del equipo tendrá la oportunidad de compartir actualizaciones sobre su progreso, discutir posibles obstáculos y colaborar en soluciones. Se destacó la importancia de que todos participemos activamente y que mantengamos una actitud abierta y receptiva hacia las ideas de los demás.
+Durante estas reuniones diarias, cada miembro del equipo tendrá la oportunidad de compartir actualizaciones sobre su progreso, discutir posibles obstáculos y colaborar en soluciones. Se destacó la importancia de que todos participemos activamente y que mantengamos una actitud abierta y receptiva hacia las ideas de los demás. Adicionalmente , debido a las bajas iniciales hemos estado de acuerdo en el compromiso de cada integrante para cumplir con el proyecto de acuerdo a la cantidad de personas que conforma el equipo actualmente.(5)
 
 
 <h3>🚩 Primeras ideas sobre proyectos.</h3>
-En un principio, se consideraron diversas opciones, como xxx...., entre otras.
+En un principio, se consideraron diversas opciones de proyecto basado en que hay mas cantidad de data scientist en el equipo. Prediccones, clasificación, series de tiempo, entre otras. Luego de hacer una tormenta de ideas se decidió buscar data set y traer ideas sobre que tipo de análisis se podría hacer y luego acordar una idea en común.
 
 
 <h3>🚩 Recolección de diferentes Dataset.</h3>
-Se propuso la busqueda de diferentes datasets para cada proyecto propuesto, esto con el fin de evaluar cuanta información se tenia de cada uno de ellos. Estos fueron detallados en un Excel donde cada integrante aportaba a cada uno de los proyectos la información correspondiente y agregando ademas que tipos de analisis podrian realizarse con ellos.
+Se propuso la busqueda de diferentes datasets para cada proyecto propuesto, esto con el fin de evaluar cuanta información se tenia de cada uno de ellos. Estos fueron detallados en un documento de Drive donde cada integrante aportaba a cada uno de los proyectos la información correspondiente y agregando ademas que tipos de analisis podrian realizarse con ellos.
 <br>
 
 <h2 align='center' >✅ Sprint 1 ✅ </h2>
 
 <br>
 <h3>🚩 Elección del proyecto</h3>
-Despues de haber reunido la información sobre los proyectos, se sometio la eleccion del mismo a votación.....
+Despues de haber reunido la información sobre los datset y sus viabilidad para los análisis, se sometio la eleccion del mismo a votación quedando el dataset de Kaggle, sobre una empresa brasilera de E-commerce https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_order_items_dataset.csv.
 <br>
-Después de haber establecido el proyecto, el equipo se reunió para discutir varios aspectos, incluyendo el alcance, los objetivos, los requisitos y las metodologías. Tras esta revisión, comenzaron a trabajar en el proyecto. Durante las primera semana, se enfocaron en la planificación detallada de las tareas, asignando responsabilidades y estableciendo un cronograma claro. 
+Después de haber establecido el rubro y el dataset, el equipo se reunió para discutir que orientación se le dará al análisis para definir el proyecto final.
 <br>
 Durante este Sprint la tarea principal a completar es la limpieza del Dataset para poder trabajar con ella en las diferentes areas.
 <br>
