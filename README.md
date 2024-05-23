@@ -54,6 +54,7 @@ Desarrollo de Campañas de Retención:
 Crear campañas de marketing específicas (emails, descuentos personalizados) dirigidas a estos clientes en riesgo.
 Monitoreo y Evaluación:
 Implementar métricas para medir la efectividad de estas campañas, como el incremento en la tasa de retorno de estos clientes y el aumento en sus compras.
+
 9. Como Gerente de Ventas, quiero usar el análisis RFM para identificar a nuestros clientes más leales y de alto valor para ofrecerles productos exclusivos y promociones especiales, con el objetivo de aumentar sus compras y fidelización a largo plazo.
 
 Criterios de Aceptación:
