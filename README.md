@@ -1,7 +1,7 @@
 # s15-32-m-data-bi
 Repositorio del proyecto seleccionado de simulación laboral s15-32-m-data-bi
 
-# PROYECTO en CONSTRUCCIÓN
+# PROYECTO Análisis de E-Commerce
 
 
 
