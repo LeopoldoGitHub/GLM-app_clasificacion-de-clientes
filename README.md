@@ -205,7 +205,7 @@ Se propuso la busqueda de diferentes datasets para cada proyecto propuesto, esto
 <h3>🚩 Elección del proyecto</h3>
 Despues de haber reunido la información sobre los datset y sus viabilidad para los análisis, se sometio la eleccion del mismo a votación quedando el dataset de Kaggle, sobre una empresa brasilera de E-commerce https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_order_items_dataset.csv.
 <br>
-Después de haber establecido el rubro y el dataset, el equipo se reunió para discutir que orientación se le dará al análisis para definir el proyecto final.
+Después de haber establecido el rubro y el dataset, el equipo se reunió para discutir que orientación se le dará al análisis para definir el proyecto final el cual se trata de segmentación de clientes
 <br>
 Durante este Sprint la tarea principal a completar es la limpieza del Dataset para poder trabajar con ella en las diferentes areas.
 <br>
@@ -213,9 +213,7 @@ El equipo se comprometió a mantener una comunicación abierta y constante para 
 <br>
 <h3>🚩 Definir User Stories:</h3>
 
-1. Como analista de mercado, quiero poder visualizar gráficos que muestren la evolución histórica ....
-2. Como inversor en el sector , quiero analizar la correlación entre los precios de ....
-3. Como gerente de , quiero visualizar informes que me indiquen....
-4. Como gerente de una , quiero recibir predicciones de .....
+1. Como área de marketing, queremos conocer el perfil de los clientes y como se segmentan para poder proponer campañas de publicidad personalizadas según sus comportamientos de compra (montos, frecuencia y recencia)
+
 <br>
 
