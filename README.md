@@ -37,10 +37,10 @@ Repositorio del proyecto seleccionado de simulación laboral s15-32-m-data-bi
 
 <h2>🚩 User Stories:</h2>
 
-1. Como analista de mercado, quiero poder visualizar gráficos que muestren la evolución histórica de los precios de ...
-2. Como inversor en el sector , quiero analizar la correlación entre ...
-3. Como gerente de una estación de servicio, quiero visualizar informes ...
-4. Como gerente de una estación de servicio, quiero recibir predicciones d...
+1. El sector financiero y en específico el director financiero necesita que analicemos los datos de ventas y en lo posible los márgenes de beneficio por categoría de producto para optimizar la asignación de recursos y maximizar la rentabilidad de la empresa.
+2. El sector de atención y experiencia del cliente necesita evaluar la satisfacción de los clientes con productos, tiempos de demora y estado de los productos a la hora de la entrega para una posible mejora en nuestro servicio al cliente, buscando aumentar la lealtad de los clientes, también se busca analizar los tiempos de demora en el shipping.
+3. Desde el área de ventas se busca analizar las zonas de mayor venta para la tienda, y así mismo las de menor, para plantear posibles estrategias que permitan abarcar mayor territorio en ventas y mejorar los ingresos a la empresa
+
 
 <h2>🚧 Producto mínimo viable (MVP):</h2>
 <br>
