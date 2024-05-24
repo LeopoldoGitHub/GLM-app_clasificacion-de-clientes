@@ -3,7 +3,7 @@ Repositorio del proyecto seleccionado de simulación laboral s15-32-m-data-bi
 
 # PROYECTO Análisis de E-Commerce
 
-
+![LogoGLM](https://github.com/No-Country/s15-32-m-data-bi/assets/122738840/159ed645-70bc-4860-b608-b1713825cb89)
 
 <h3 align="center">🛠️ Miembros del Equipo</h3>
 ****
