@@ -3,7 +3,7 @@ Repositorio del proyecto seleccionado de simulación laboral s15-32-m-data-bi
 
 ![LogoGLM](https://github.com/No-Country/s15-32-m-data-bi/assets/122738840/159ed645-70bc-4860-b608-b1713825cb89)
 
-# PROYECTO GML'S ANALYTICS 
+# PROYECTO GLM'S ANALYTICS 
 Aplicación que segmenta los clientes segun su comportamiento de compra. El gerente de marketing y todo el departamento , tendrá a su disposición esta aplicación para hacer seguimiento en tiempo real del comportamiento  de compra de los clientes dentro del E commerce. Incluso puede predecir , introduciendo variables que le indicará el sistema , en que segmento estará un cliente nuevo.
 
 
