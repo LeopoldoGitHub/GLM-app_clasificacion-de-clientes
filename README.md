@@ -1,9 +1,11 @@
 # s15-32-m-data-bi
 Repositorio del proyecto seleccionado de simulación laboral s15-32-m-data-bi
 
-# PROYECTO Análisis de E-Commerce
-
 ![LogoGLM](https://github.com/No-Country/s15-32-m-data-bi/assets/122738840/159ed645-70bc-4860-b608-b1713825cb89)
+
+# PROYECTO GML'S ANALYTICS 
+Aplicación que segmenta los clientes segun su comportamiento de compra. El gerente de marketing y todo el departamento , tendrá a su disposición esta aplicación para hacer seguimiento en tiempo real del comportamiento  de compra de los clientes dentro del E commerce. Incluso puede predecir , introduciendo variables que le indicará el sistema , en que segmento estará un cliente nuevo.
+
 
 <h3 align="center">🛠️ Miembros del Equipo</h3>
 ****
@@ -15,15 +17,14 @@ Repositorio del proyecto seleccionado de simulación laboral s15-32-m-data-bi
 |:---:|:---:|:---:|
 |**Marcelo Peralta**|![](https://img.shields.io/badge/PROJECT%20MANAGER-red?style=for-the-badge) <br> ![](https://img.shields.io/badge/DATA%20SCIENTIST-blue?style=for-the-badge)| <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/marcelo-peralta2/">[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-peralta2/) </a> |
 |**Stiven Lopez**| <br> ![](https://img.shields.io/badge/DATA%20ANALYST-yellow?style=for-the-badge)| <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/stivenlm/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
-|**Giuseppe Navarro**|![](https://img.shields.io/badge/DATA%20SCIENTIST-blue?style=for-the-badge)| <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/gnavarromarin/">[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-terrile-it/)</a> |
-|**Lara Cantons**| <br> ![](https://img.shields.io/badge/DATA%20ANALYST-yellow?style=for-the-badge)| <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/lara-cantons-/">[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanabriadiego/)</a> |
+|**Giuseppe Navarro**|![](https://img.shields.io/badge/DATA%20SCIENTIST-blue?style=for-the-badge)| <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/gnavarromarin/">[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gnavarromarin/)</a> |
 |**Leopoldo Flores**|![](https://img.shields.io/badge/DATA%20SCIENTIST-blue?style=for-the-badge)| <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/leopoldofloresc/">[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leopoldofloresc/)</a> |
 
 
 </div>
 <br>
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16rBPz1NW1Z4lRXnCLZbR0FyFT5gOZV3X?usp=sharing) 
+
 
 
 <h2>🚧 Stack de Tecnologías </h2>
