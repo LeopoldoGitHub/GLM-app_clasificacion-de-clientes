@@ -1,7 +1,7 @@
 # s15-32-m-data-bi
 Repositorio del proyecto seleccionado de simulación laboral s15-32-m-data-bi
 
-![LogoGLM](https://github.com/No-Country/s15-32-m-data-bi/assets/122738840/159ed645-70bc-4860-b608-b1713825cb89)
+![LogoGLM](img/LogoGLM.png)
 
 # PROYECTO GLM'S ANALYTICS 
 Aplicación que segmenta los clientes segun su comportamiento de compra. El gerente de marketing y todo el departamento , tendrá a su disposición esta aplicación para hacer seguimiento en tiempo real del comportamiento  de compra de los clientes dentro del E commerce. Incluso puede predecir , introduciendo variables que le indicará el sistema , en que segmento estará un cliente nuevo.
@@ -161,11 +161,11 @@ Datos Necesarios: Historial de devoluciones, motivos de devolución, productos m
 
 <h2>🚧 Producto mínimo viable (MVP):</h2>
 <br>
-El objetivo de este proyecto es que los usuarios puedan analizar y visualizar datos relacionados c...........
+El objetivo de este proyecto es que el gerente de marketing y todo el departamento , tendrá a su disposición esta aplicación para hacer seguimiento en tiempo real del comportamiento  de compra de los clientes dentro del E commerce. Incluso puede predecir , introduciendo variables que le indicará el sistema , en que segmento estará un cliente nuevo
 <br>
-Con acceso a datos que abarcan un extenso período desde el año 2.......
+Con acceso a datos que abarcan un período entre  2016 y 2018 de transacciones on line de una tienda de E commerce en Brasil, se podán analizar los datos de compras recopilados en ese periodo y clasificar a los clientes pro su comportamiento de consumo.
 <br>
-Con este análisis en profundidad, los usuarios podrán anticipar tendencias .....
+Con este análisis se podrán diseñar campañas de marketing personalizadas y orientadas a los clientes que mas compras realizan, o los que tienen mayor riesgo de abandonar la plataforma.
 <br>
 
 <h2>🚧 Etapas del Proyecto</h2>
@@ -210,11 +210,75 @@ Después de haber establecido el rubro y el dataset, el equipo se reunió para d
 <br>
 Durante este Sprint la tarea principal a completar es la limpieza del Dataset para poder trabajar con ella en las diferentes areas.
 <br>
-El equipo se comprometió a mantener una comunicación abierta y constante para garantizar un flujo de trabajo eficiente y colaborativo.......
+El equipo se comprometió a mantener una comunicación abierta y constante para garantizar un flujo de trabajo eficiente y colaborativo.
 <br>
+
 <h3>🚩 Definir User Stories:</h3>
 
 1. Como área de marketing, queremos conocer el perfil de los clientes y como se segmentan para poder proponer campañas de publicidad personalizadas según sus comportamientos de compra (montos, frecuencia y recencia)
 
 <br>
 
+<h1 align='center' >Etapas del Proyecto</h1>
+<br>
+<img src="./img/etapas.png" width='100%'>
+
+<h3>🚩 Extracción y limpieza de datos:</h3>
+
+
+<h4>🚩 Dataset Olist:</h4>
+
+Para comenzar, vamos a examinar un conjunto de datos que pertenece a “Olist”, una empresa brasileña de comercio electrónico. Nuestro objetivo es progresar en el proyecto mediante la identificación de percepciones y datos valiosos que podrían ser incorporados en nuestro estudio.
+
+Estructura que tenia al inicio:
+
+<img src="./img/dataset_Olist_Original.png" width='100%'>
+
+En el archivo [Limpieza de Datos Olist](ruta) se puede ver todo el proceso de extracción y limpieza de este dataset.
+O bien en el cuaderno virtual de Google Colab a continuación: [Limpieza de Datos Olist](ruta)
+
+
+<br>
+<h3>🚩 Conexión de la base de datos a Power BI y primeros análisis</h3>
+
+Luego de la limpieza, tanto para la parte de análisis de datos como para el desarrollo del modelo, se comenzó a analizar algunos insights en Power BI. Logrando asi desarrollar las primeras visualizaciones para el dashboard
+
+
+##Visualizaciones en construcción
+
+
+<h2 align='center' >✅ Sprint 2 ✅ </h2>
+<br>
+<h3>🚩 Creación de Streamlit:</h3>
+
+Streamlit es una herramienta de Python que facilita la creación de aplicaciones web para ciencia de datos y aprendizaje automático. Permite a los usuarios interactuar con datos y ver resultados en tiempo real, optimizando así el proceso desde la exploración hasta la implementación de modelos.
+
+Para este proyecto se realizó la implementación en esta plataforma creando la estructura inicial en 4 partes:
+
+1. Home: En esta se encuentra la descripción del proyecto y una vista general de la aplicación.
+2. Desarrollo del proyecto: Se muestra cómo se obtuvieron y cargaron los datos, así cómo el proceso de transformación y limpieza para tener las tablas que finalmente se utilizarán en el proyecto.
+3. Visualización: En esta sección, nos embarcamos en un viaje de exploración visual exhaustivo utilizando Power BI para desentrañar insights del conjunto de datos de la empresa brasileña de comercio electrónico, OLIST. Mediante el uso de gráficos interactivos, somos capaces de realizar consultas detalladas y observar la descripción de los datos desde múltiples perspectivas.
+
+Estos gráficos interactivos nos permiten manipular y examinar los datos en diversas combinaciones, lo que nos ayuda a entender mejor las tendencias, patrones y relaciones subyacentes. Esto es especialmente útil para identificar insights clave que podrían pasar desapercibidos en un análisis estático.
+
+4. Modelo de segmentación: En una sección clave de nuestro proyecto, presentamos un modelo de segmentación de machine learning diseñado específicamente para los consumidores de “Olist”, una prominente empresa brasileña de comercio electrónico. Este modelo es el resultado de un riguroso análisis de datos y una cuidadosa ingeniería de características, y tiene como objetivo agrupar a los clientes en segmentos distintos basados en sus comportamientos y patrones de compra.
+
+Hemos desarrollado una aplicación intuitiva que permite al gerente de marketing de “Olist” visualizar y entender estos segmentos de clientes de manera efectiva. Esta aplicación no solo muestra la segmentación de los clientes, sino que también proporciona insights valiosos sobre cada segmento, lo que permite al equipo de marketing diseñar estrategias de marketing más personalizadas y efectivas.
+
+En resumen, esta sección del proyecto destaca nuestro compromiso con la aplicación práctica de machine learning y data science para resolver problemas comerciales reales y generar valor para nuestros clientes.
+
+##Esta tarea será actualizada conforme avance el proyecto.
+
+<h3>🚩 Division de Insights para el Dashboard:</h3>
+
+Se analizó el dataset en el que se estaba trabajando para asi dividir y definir cuales serian los parametros y la información que se mostrará en el dashboard.
+
+Se hizo la division en los siguientes campos:
+
+1. ##a.
+2. ##b.
+3. ##c.
+4. ##d
+<h3>🚩 Desarrollo de modelos predictivos:</h3>
+
+###En proceso de ejecución
