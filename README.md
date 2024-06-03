@@ -219,7 +219,6 @@ El equipo se comprometió a mantener una comunicación abierta y constante para 
 
 <br>
 
-<h1 align='center' >Etapas del Proyecto</h1>
 <br>
 <img src="./img/etapas.png" width='100%'>
 
