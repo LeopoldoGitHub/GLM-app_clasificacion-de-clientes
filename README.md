@@ -161,11 +161,11 @@ Datos Necesarios: Historial de devoluciones, motivos de devolución, productos m
 
 <h2>🚧 Producto mínimo viable (MVP):</h2>
 <br>
-El objetivo de este proyecto es que los usuarios puedan analizar y visualizar datos relacionados c...........
+El objetivo de este proyecto es que el gerente de marketing y todo el departamento , tendrá a su disposición esta aplicación para hacer seguimiento en tiempo real del comportamiento  de compra de los clientes dentro del E commerce. Incluso puede predecir , introduciendo variables que le indicará el sistema , en que segmento estará un cliente nuevo
 <br>
-Con acceso a datos que abarcan un extenso período desde el año 2.......
+Con acceso a datos que abarcan un período entre  2016 y 2018 de transacciones on line de una tienda de E commerce en Brasil, se podán analizar los datos de compras recopilados en ese periodo y clasificar a los clientes pro su comportamiento de consumo.
 <br>
-Con este análisis en profundidad, los usuarios podrán anticipar tendencias .....
+Con este análisis se podrán diseñar campañas de marketing personalizadas y orientadas a los clientes que mas compras realizan, o los que tienen mayor riesgo de abandonar la plataforma.
 <br>
 
 <h2>🚧 Etapas del Proyecto</h2>
@@ -210,7 +210,7 @@ Después de haber establecido el rubro y el dataset, el equipo se reunió para d
 <br>
 Durante este Sprint la tarea principal a completar es la limpieza del Dataset para poder trabajar con ella en las diferentes areas.
 <br>
-El equipo se comprometió a mantener una comunicación abierta y constante para garantizar un flujo de trabajo eficiente y colaborativo.......
+El equipo se comprometió a mantener una comunicación abierta y constante para garantizar un flujo de trabajo eficiente y colaborativo.
 <br>
 <h3>🚩 Definir User Stories:</h3>
 
