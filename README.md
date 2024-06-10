@@ -278,6 +278,66 @@ Se hizo la division en los siguientes campos:
 2. ##b.
 3. ##c.
 4. ##d
-<h3>🚩 Desarrollo de modelos predictivos:</h3>
+5. ##e
 
-###En proceso de ejecución
+<h2 align='center' >✅ Sprint 3 ✅ </h2>
+
+
+<h3>🚩 Elaboración de Modelo de segmentación </h3>
+
+Se realizó el proceso de limpieza y tratamiento de datos para crear un modelo de clustering que nos permitirá determinar los tipos de cliente segun su comportamiento de compra en la e-commerce, como se describe a continuación:
+
+<li><b>Preparación de Datos:</b> Se genera un dataframe tomando en cuenta las caracteristicas que implican las compras realizadas por el cliente y las fechas en las cuales fueron realizadas para luego hacer cálculos de RFM en los datos.
+</li>
+<img src="./Media/predict.png" width="100%">
+
+<li><b>Limpieza y Filtrado:</b> Se eliminan duplicados y nulos, y se toma en cuenta estas caracteristicas para generar una visualización: ["customer_state", "order_status", "payment_sequential", "payment_type","payment_installments", "payment_value", "order_price", "delivery_value", "seller_state"].</li>
+<img src="./Media/predict.png" width="100%">
+
+<li><b>Análisis Exploratorio:</b> Se realizan distintas visualizaciones para ver las distribuciones, identificar patrones o realaciones entre variables , asi como la identificación de outliers.</li>
+<img src="./Media/predict.png" width="100%">
+
+<li><b>Modelado Predictivo:</b> Se utiliza varios modelos de claustering: Kmeans, DBscan, Birch, Mean Shift Clustering, Affinity Propagation, OPTICS, encontrando mejor capacidad de agrupamiento el Kmeans, por lo que se realizaron diversas pruebas con ajustes de parámetros, aumento del numero de clusters para iterar y validación cruzada</li>
+<img src="./Media/predict.png" width="100%">
+
+<li><b>Evaluación del Modelo:</b> Se tomó la metrica de Silhouette para determinar el numero óptimo de clusters, quedando con 6 grupos que dan mas detalles de los clientes y se traduce en campañasde marketing mas específicas para cada segmento.</li>
+<img src="./Media/predict.png" width="100%">
+
+<li><b>Visualización de Resultados:</b> ####En consrucción.</li>
+
+<br>
+<li><b>Clusters 2D:</b></li>
+<img src="./Media/rmse.png" width="35%">
+<br>
+
+<br>
+<li><b>Clusters 3D:</b></li>
+<img src="./Media/rmse.png" width="35%">
+<br>
+
+<br>
+<li><b>RFM para clusters=6:</b></li>
+<img src="./Media/rmse.png" width="35%">
+<br>
+
+
+
+<h2 align='center' >✅ Sprint 4 ✅ </h2>
+
+<h3>🚩 Diseño de la presentación del DemoDay </h3>
+
+Se realiza la revisión final de los elementos del pryecto y la creación de la presentación final para el demoDay.
+
+Se organizó la información y se definió el tipo de presentación con slides y con 1 expositor:<br>
+
+<li>¿Que es GLM's?</li>
+<li>¿Aplicaciones y ventajas?</li>
+<li>¿Cómo funciona?</li>
+<li>¿Porque debería implementar GLM's?</li>
+<li>Conclusión</li>
+
+<br>
+<br>Puedes ver la presentación completa en el siguiente <a href="http:xxx"><b>link</b></a>
+
+<hr>
+
