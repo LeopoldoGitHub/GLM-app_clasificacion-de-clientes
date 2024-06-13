@@ -104,7 +104,8 @@ st.title("Clustering para nuevo usuario")
 cliente_id = st.text_input("Ingrese el ID del cliente:", "")
 orden_id = st.text_input("Ingrese el ID de la orden:", "")
 valor_orden = st.number_input("Ingrese el valor total de la orden con decimales:", min_value=0.0)
-fecha_compra = st.text_input('Ingrese la fecha y hora en el formato YYYY-MM-DD HH:MM:SS', '2018-06-18 16:45:05')
+fecha_compra = st.text_input('Ingrese la fecha y hora en el formato YYYY-MM-DD HH:MM:SS')
+
 
 # Botón para procesar
 if st.button("Clasificar"):
@@ -113,7 +114,7 @@ if st.button("Clasificar"):
     if cliente_id and orden_id and valor_orden and fecha_compra:
         try:
              # Limpieza y parsing de la fecha
-            fecha_compra = datetime.strptime(fecha_compra.strip(), '%Y-%m-%d %H:%M:%S')
+            fecha_compra = datetime.strptime(fecha_compra,'%Y-%m-%d %H:%M:%S').date()
             
             # Leer el dataframe base
             df_rfm = pd.read_csv('./model/df_rfm.csv')
