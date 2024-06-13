@@ -3,3 +3,12 @@ pandas
 scikit-learn
 matplotlib
 seaborn
+pickle
+numpy
+datetime
+dateutil
+parser
+StandardScaler
+os
+joblib
+time

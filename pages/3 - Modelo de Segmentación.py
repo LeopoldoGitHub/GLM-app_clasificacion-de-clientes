@@ -46,8 +46,17 @@ o podrían intentar reenganchar a clientes que no han comprado recientemente.
 
 En resumen, la segmentación de clientes con machine learning permite a las empresas
 de e-commerce entender mejor a sus clientes, personalizar sus interacciones y mejorar sus resultados.
-Mostramos una primera categorización de los clientes de este dataset que servirá de referencia para nuestro modelo final
+Mostramos la categorización de los clientes de nuestro modelo final
 '''
+
+customer_new=''' Se ingresan los datos de nuevo cliente y se piden su identificación de usuario y datos de compra'''
+
+clustering=''' El modelo se ejecuta generando una segmentación de acuerdo al comportamiento de compra del usuario'''
+
+marketing=''' Se analizan las métricas de los segmentos y se diseña una campaña de marketing personalizada la cual será recomendada de acuaerdo al comportamiento de compra del cliente'''
+
+recomendacion=''' Se muestra la informacion general del cluster y se muestra la recomendación diseñada para cada caso'''
+
 st.title('Modelo de Segmentación')
 st.write(modelo, unsafe_allow_html=True)
 
@@ -59,13 +68,36 @@ img=st.image('./img/rfm.png', width=500)
 st.title('Visualizando variables RFM')
 st.write(rfm, unsafe_allow_html=True)
 
-img=st.image('./img/recency.png', width=500)
-img=st.image('./img/frecuency.png', width=500)
-img=st.image('./img/monetary.png', width=500)
+img=st.image('./img/RFM_by_cluster.png', width=500)
+
 
 
 st.title('Categorizando clientes')
 st.write(customer, unsafe_allow_html=True)
 
-img=st.image('./img/cluster1.png', width=500)
-img=st.image('./img/cluster2.png', width=500)
+img=st.image('./img/cluster_6_2d.png', width=500)
+img=st.image('./img/cluster_6_3d.png', width=500)
+
+
+st.title('Clientes por cluster')
+img=st.image('./img/clientes_por_cluster.png', width=500)
+
+st.title('Categorizando Cliente Nuevo-Ingreso de Datos')
+st.write(customer_new, unsafe_allow_html=True)
+
+img=st.image('./img/ingresar_cliente.png', width=500)
+
+st.title('Ejecución del modelo-Kmeans')
+st.write(clustering, unsafe_allow_html=True)
+
+img=st.image('./img/clustering.png', width=500)
+
+st.title('Campaña de Marketing')
+st.write(marketing, unsafe_allow_html=True)
+
+img=st.image('./img/marketing.png', width=500)
+
+st.title('Cliente Nuevo-Recomendación')
+st.write(recomendacion, unsafe_allow_html=True)
+
+img=st.image('./img/recomendacion.png', width=700)

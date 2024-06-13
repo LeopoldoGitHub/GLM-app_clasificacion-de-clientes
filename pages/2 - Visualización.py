@@ -16,4 +16,4 @@ with st.expander('Dashboard'):
     # imagen = img.resize((800, 400))
     # st.image(imagen)    
 
-    st.write("<iframe width='1000' height='600' src='https://app.powerbi.com/view?r=eyJrIjoiZjdiNmFjOWUtNzNlMy00MmRhLWJkNDgtZWEwYTBlMmFkNTEwIiwidCI6ImI1ZDc4OTI3LTI1ZDAtNDRhOS04MzcwLWQ4NmU1N2M3YmE5NiIsImMiOjR9' style='display:block;margin:auto;'></iframe>", unsafe_allow_html=True)
+    st.write("<iframe width='1000' height='600' src='https://app.powerbi.com/view?r=eyJrIjoiMzZmZGViOWItNmE3Zi00NzY0LWJjNDgtZWM3YmMyN2I4NzViIiwidCI6ImI1ZDc4OTI3LTI1ZDAtNDRhOS04MzcwLWQ4NmU1N2M3YmE5NiIsImMiOjR9' style='display:block;margin:auto;'></iframe>", unsafe_allow_html=True)
