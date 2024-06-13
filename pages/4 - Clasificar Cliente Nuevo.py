@@ -10,7 +10,7 @@ import numpy as np
 from datetime import datetime
 from sklearn.preprocessing import StandardScaler
 import joblib
-import time
+
 
 cliente = '''
 Sistema de recomendación de Marketing aplicado a comportamiento de compra de clientes
