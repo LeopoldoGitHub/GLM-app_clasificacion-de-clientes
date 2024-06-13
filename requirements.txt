@@ -5,7 +5,6 @@ matplotlib
 seaborn
 numpy
 datetime
-parser
 StandardScaler
 os
 joblib
