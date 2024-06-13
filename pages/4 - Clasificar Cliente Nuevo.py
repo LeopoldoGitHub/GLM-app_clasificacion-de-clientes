@@ -8,7 +8,6 @@ import streamlit as st
 import pickle
 import numpy as np
 from datetime import datetime
-from dateutil import parser
 from sklearn.preprocessing import StandardScaler
 import os
 import joblib
