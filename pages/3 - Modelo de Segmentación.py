@@ -53,7 +53,7 @@ customer_new=''' Se ingresan los datos de nuevo cliente y se piden su identifica
 
 clustering=''' El modelo se ejecuta generando una segmentación de acuerdo al comportamiento de compra del usuario'''
 
-marketing=''' Se analizan las métricas de los segmentos y se diseña una campaña de marketing personalizada la cual será recomendada de acuaerdo al comportamiento de compra del cliente'''
+marketing=''' Se analizan las métricas de los segmentos y se diseña una campaña de marketing personalizada la cual será recomendada de acuerdo al comportamiento de compra del cliente'''
 
 recomendacion=''' Se muestra la informacion general del cluster y se muestra la recomendación diseñada para cada caso'''
 
