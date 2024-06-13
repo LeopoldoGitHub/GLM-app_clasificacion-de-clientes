@@ -6,7 +6,6 @@ seaborn
 numpy
 datetime
 StandardScaler
-os
 joblib
 time
 python-dateutil
