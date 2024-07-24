@@ -352,7 +352,5 @@ Se organizó la información y se definió el tipo de presentación con slides y
 <li>Conclusión</li>
 
 <br>
-<br>Puedes ver la presentación completa en el siguiente <a href="http:xxx"><b>link</b></a>
 
-<hr>
 
