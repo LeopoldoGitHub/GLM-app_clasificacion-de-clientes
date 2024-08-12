@@ -1,5 +1,6 @@
-# s15-32-m-data-bi
-Repositorio del proyecto seleccionado de simulación laboral s15-32-m-data-bi
+# GLM- App de clasificación de clientes para tienda de E-commerce
+Repositorio del proyecto seleccionado de simulación laboral 
+s15-32-m-data-bi
 
 ![LogoGLM](img/LogoGLM.png)
 
